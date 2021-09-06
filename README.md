@@ -20,10 +20,37 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://files.sextflirt.com/s
 > 
 > ✅ MySql
 
-# My Projects
-[![Fanscritc Badge](https://fanscritic.com/assets/img/fanscritic-logo.png)](https://fanscritic.com/) 
-# [Fanscritic.com](https://fanscritic.com/)
 
-[![Fanscritc Badge](https://crushfling.com/assets/img/crushfling_logo.png)](https://crushfling.com/)
-# [crushfling.com](https://crushfling.com/)
+# My Privious Incridable And Successful Projects
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Challenges</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://fanscritic.com/" target="_blank">Fanscritic</a></td>
+      <td>A user review platform for socialmedia models</td>
+      <td>1. </td>
+    </tr>
+    <tr>
+      <td><a href="https://crushfling.com/" target="_blank">Crushfling</a></td>
+      <td>Socialmedia users and Model Engage platform with like and comments</td>
+      <td>**</td>
+    </tr>
+    <tr>
+      <td><a href="https://sextflirt.com" target="_blank">Sectflirt</a></td>
+      <td>A free platform for Adult models and users</td>
+      <td>**</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=arifbsl.arifbsl)
