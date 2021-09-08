@@ -43,7 +43,7 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://files.sextflirt.com/s
       <td>**</td>
     </tr>
     <tr>
-      <td><a href="https://sextflirt.com" target="_blank">Sectflirt</a></td>
+      <td><a href="https://sextflirt.com" target="_blank">Sexctflirt</a></td>
       <td>A free platform for Adult models and users</td>
       <td>**</td>
     </tr>
