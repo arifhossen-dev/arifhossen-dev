@@ -1,7 +1,7 @@
 
 # Hi there!
 
-I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag/BD.svg" width="16"/> Bangladesh. I Spend most of time coding outstanding projects.
+I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag/BD.svg" width="16"/> Bangladesh. I Spend most of my time coding outstanding projects.
 
 :coffee: &emsp;Connect with me!
 
@@ -36,7 +36,7 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag
   <tbody>
     <tr>
       <td><a href="https://fanscritic.com/" target="_blank">Fanscritic</a></td>
-      <td>A user review platform for socialmedia models</td>
+      <td>A user review platform for social media models</td>
       <td>1. </td>
     </tr>
     <tr>
@@ -54,11 +54,13 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag
       <td>
         **Floor management system ( SAAS)**
       </td>
-      <td>**</td>
+      <td>9.5 out of 10</td>
     </tr>
   </tbody>
 </table>
 
+# My ⭐Top Rated && 👑 100% Job Success || UpWork profile link
+<a href="https://www.upwork.com/freelancers/~0109e21af7cbdf2679?viewMode=1" target="_blank">Laravel, VueJS, AlpineJS Full-Stack developer | Tailwind CSS Expert</a>
 
 #### Profile Visits 
 
