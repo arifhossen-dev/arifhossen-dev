@@ -59,10 +59,8 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag
   </tbody>
 </table>
 
-# My ⭐Top Rated & 👑 100% Job Success | UpWork profile link
+
+# ⭐Top Rated & 👑 100% Job Success | UpWork profile link
 ## Laravel, VueJS, AlpineJS Full-Stack developer | Tailwind CSS Expert
-<a href="https://www.upwork.com/freelancers/~0109e21af7cbdf2679?viewMode=1" target="_blank">Click her to Visit</a>
+### <a href="https://www.upwork.com/freelancers/~0109e21af7cbdf2679?viewMode=1" target="_blank">Click here</a>  to Visit My Upwork Profile
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=arifbsl.arifbsl)
