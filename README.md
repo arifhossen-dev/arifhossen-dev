@@ -35,9 +35,16 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://activitysmart.com/" target="_blank">Activity Smart Inc.</a></td>
+      <td>
+        Floor management system ( SAAS )
+      </td>
+      <td>9.5 out of 10</td>
+    </tr>
+    <tr>
       <td><a href="https://fanscritic.com/" target="_blank">Fanscritic</a></td>
       <td>A user review platform for social media models</td>
-      <td>1. </td>
+      <td>5.5 out of 10 </td>
     </tr>
     <tr>
       <td><a href="https://crushfling.com/" target="_blank">Crushfling</a></td>
@@ -48,13 +55,6 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag
       <td><a href="https://sextflirt.com" target="_blank">Sexctflirt</a></td>
       <td>A free platform for Adult models and users</td>
       <td>**</td>
-    </tr>
-    <tr>
-      <td><a href="https://activitysmart.com/" target="_blank">Activity Smart Inc.</a></td>
-      <td>
-        **Floor management system ( SAAS)**
-      </td>
-      <td>9.5 out of 10</td>
     </tr>
   </tbody>
 </table>
