@@ -50,7 +50,7 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag
       <td>**</td>
     </tr>
     <tr>
-      <td><a href="[https://sextflirt.com](https://activitysmart.com/)" target="_blank">Activity Smart Inc.</a></td>
+      <td><a href="https://activitysmart.com/" target="_blank">Activity Smart Inc.</a></td>
       <td>
         **Floor management system ( SAAS)**
       </td>
