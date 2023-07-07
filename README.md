@@ -10,9 +10,11 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag
 # My Expertise
 > ✅ HTML5
 > 
-> ✅ CSS3
+> ✅ TailwindCSS
 > 
 > ✅ JavaScript
+> 
+> ✅ VueJs
 > 
 > ✅ PHP
 > 
@@ -45,6 +47,13 @@ I'm Arif, a Laravel and CSS3 expert from <img src="https://s3.sextflirt.com/flag
     <tr>
       <td><a href="https://sextflirt.com" target="_blank">Sexctflirt</a></td>
       <td>A free platform for Adult models and users</td>
+      <td>**</td>
+    </tr>
+    <tr>
+      <td><a href="[https://sextflirt.com](https://activitysmart.com/)" target="_blank">Activity Smart Inc.</a></td>
+      <td>
+        **Floor management system ( SAAS)**
+      </td>
       <td>**</td>
     </tr>
   </tbody>
