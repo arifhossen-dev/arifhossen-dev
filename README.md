@@ -1,7 +1,7 @@
 
 # Hi there!
 
-I'm Arif, a Laravel, VueJS, AlpineJS Full-Stack developer And Tailwind CSS Expert from <img src="https://s3.sextflirt.com/flag/BD.svg" width="16"/> Bangladesh. I Spend most of my time coding outstanding projects. With experiance in SAAS projects.
+I'm Arif, a Laravel, VueJS, AlpineJS Full-Stack developer And Tailwind CSS Expert from <img src="https://s3.sextflirt.com/flag/BD.svg" width="16"/> Bangladesh. I Spend most of my time coding outstanding projects. With experience in SAAS projects.
 
 :coffee: &emsp;Connect with me!
 
