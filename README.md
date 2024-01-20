@@ -27,6 +27,7 @@ Self-employed
 - Created a white-labeled iOS application for supporting a large number of online forums.
 - Built SaaS applications that scale and support hundreds of companies.
 - Integrated social media tools and SDKs into various web applications.
+
 ```Technologies: CSS, JavaScript, MySQL, Laravel, PHP, Livewire, Filament, Vue, Nuxt, TailwindCSS, Full-stack```
 
 ## Full-stack developer
