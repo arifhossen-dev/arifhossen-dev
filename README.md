@@ -49,7 +49,7 @@ Foxpair Media Inc
 - Led the development and successful launch of a Real Estate Web application, facilitating property transactions including buying, renting, and selling.
 - Develop a fully functional Transportation Management System for the Track rental department.
 
-```Technologies: Realstate SDK, Bapbox API, Laravel, PHP, Livewire, AlpineJS, TailwindCSS, TALL-stack```
+```Technologies: Realstate SDK, Mapbox API, Laravel, PHP, Livewire, AlpineJS, TailwindCSS, TALL-stack```
 
 
 ---
