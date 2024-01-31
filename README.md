@@ -2,7 +2,7 @@
 
 I am a full-stack developer with 5 years of experience building web applications and a preference for back-end engineering. I have expertise in Laravel, PHP, Vue.js, DigitalOcean, and Docker. I have also worked with MySQL, SQLite, PostgreSQL, Elasticsearch, and Redis databases. I have worked on SaaS applications and with multiple projects with great success. I love maintaining SOLID Principles in Laravel Projects.
 
-Currently, I am open to being a team player.
+Currently, I am open for a team role.
 
 ![Static Badge](https://img.shields.io/badge/Full--stack-white) ![Static Badge](https://img.shields.io/badge/TALL_stack-white) ![Static Badge](https://img.shields.io/badge/Filament-white) ![Static Badge](https://img.shields.io/badge/PHP-white) ![Static Badge](https://img.shields.io/badge/Laravel-white) ![Static Badge](https://img.shields.io/badge/JavaScript-white) ![Static Badge](https://img.shields.io/badge/Vue-white) ![Static Badge](https://img.shields.io/badge/Nuxt-white) ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-white) 
 
