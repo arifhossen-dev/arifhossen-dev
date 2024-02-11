@@ -24,7 +24,7 @@ Tools
 - Docker
 - PhpStorm & VSCode
 
-cloud
+Cloud
 - DigitalOcean
 
 ---
