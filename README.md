@@ -24,6 +24,9 @@ Tools
 - Docker
 - PhpStorm & VSCode
 
+cloud
+- DigitalOcean
+
 ---
 
 ## Web developer
