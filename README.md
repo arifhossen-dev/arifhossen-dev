@@ -59,6 +59,6 @@ Foxpair Media Inc
 
 ```Technologies: Realstate SDK, Mapbox API, Laravel, PHP, Livewire, AlpineJS, TailwindCSS, TALL-stack```
 
-
+<!--
 ---
-[![Facebook Badge](https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifhossen-dev/)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahak.bsl@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifhossen-dev/)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahak.bsl@gmail.com) -->
