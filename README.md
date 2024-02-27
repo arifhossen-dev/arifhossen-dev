@@ -3,20 +3,19 @@
   I am a full-stack developer with over 5 years of experience in building web applications. I specialize in back-end engineering and have expertise in Laravel, PHP, Vue.js, DigitalOcean, and Docker. I have worked with MySQL, SQLite, PostgreSQL, Elasticsearch, and Redis databases. I have a proven track record of delivering successful SaaS applications and multiple projects. I am passionate about maintaining SOLID principles in Laravel projects. Currently, I am seeking a team role where I can leverage my skills and experience to contribute to the success of the organization.
 
 
-![Static Badge](https://img.shields.io/badge/Full--stack-white) ![Static Badge](https://img.shields.io/badge/TALL_stack-white) ![Static Badge](https://img.shields.io/badge/Filament-white) ![Static Badge](https://img.shields.io/badge/PHP-white) ![Static Badge](https://img.shields.io/badge/Laravel-white) ![Static Badge](https://img.shields.io/badge/JavaScript-white) ![Static Badge](https://img.shields.io/badge/Vue-white) ![Static Badge](https://img.shields.io/badge/Nuxt-white) ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-white) 
+![Static Badge](https://img.shields.io/badge/Full--stack-white) ![Static Badge](https://img.shields.io/badge/TALL_stack-white) ![Static Badge](https://img.shields.io/badge/Filament-white) ![Static Badge](https://img.shields.io/badge/PHP-white) ![Static Badge](https://img.shields.io/badge/Laravel-white) ![Static Badge](https://img.shields.io/badge/JavaScript-white) ![Static Badge](https://img.shields.io/badge/Vue-white) ![Static Badge](https://img.shields.io/badge/Nuxt-white) ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-white)
+
 <a href="https://app.daily.dev/arifhossendev"><img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif hossen's Dev Card"/></a>
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifhossen-dev&show_icons=true&hide_border=false&theme=radical" width="37%" alt="Arif Hossen's Top Languages"> -->
-
-## Experience
+Experience
+---
 <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifhossen-dev&layout=compact&langs_count=8&card_width=320" />
 
 - PHP - 7 years
 - JavaScript - 5 years
 - Laravel - 5 years
+- Livewire - 3 years
 - Filament - 2 years
 - Vue - 2 years
-- Nuxt - 1 years
 <br/>
 
 Tools
