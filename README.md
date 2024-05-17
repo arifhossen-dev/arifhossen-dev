@@ -32,12 +32,11 @@ Cloud
 2018 - PRESENT  
 Self-employed  
 - Developed web applications for over 20 clients.
-- Helped multiple clients finalize problematic projects by providing the needed expertise to bring projects to release.
-- Created a white-labeled iOS application for supporting a large number of online forums.
+- Helped multiple clients finalise problematic projects by providing the needed expertise to bring projects to release.
 - Built SaaS applications that scale and support hundreds of companies.
 - Integrated social media tools and SDKs into various web applications.
 
-```Technologies: CSS, JavaScript, MySQL, Laravel, PHP, Livewire, Filament, Vue, Nuxt, TailwindCSS, Full-stack```
+```Technologies: CSS, JavaScript, MySQL, Laravel, PHP, Livewire, Filament, Vue, TailwindCSS, Full-stack```
 
 ## Full-stack developer
 DEC 2021 - MAY 2023 • REMOTE\
