@@ -39,7 +39,7 @@ Self-employed
 ```Technologies: CSS, JavaScript, MySQL, Laravel, PHP, Livewire, Filament, Vue, TailwindCSS, Full-stack```
 
 ## Full-stack developer
-DEC 2021 - MAY 2023 • REMOTE\
+DEC 2021 - MAY 2023 • REMOTE
 Activity Smart Inc
 
 - Developed and successfully deployed a SAAS product. Activity and floor Management system targeted to the manufacturing companies.
