@@ -49,7 +49,7 @@ Activity Smart Inc
 ```Technologies: Laravel, PHP, Livewire, AlpineJS, TailwindCSS, TALL-stack```
 
 ## Full-stack Developer
-NOV 2021 - AUG 2023 • FREELANCE\
+NOV 2021 - AUG 2023 • FREELANCE
 Foxpair Media Inc
 
 - Led the development and successful launch of a Real Estate Web application, facilitating property transactions including buying, renting, and selling.
