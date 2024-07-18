@@ -60,3 +60,5 @@ Foxpair Media Inc
 <!--
 ---
 [![Facebook Badge](https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifhossen-dev/)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahak.bsl@gmail.com) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arifhosssen.dev)](https://git.io/streak-stats)
