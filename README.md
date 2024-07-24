@@ -10,12 +10,12 @@ Experience
 ---
 <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifhossen-dev&layout=compact&langs_count=8&card_width=320" />
 
-- PHP - 7 years
-- JavaScript - 5 years
-- Laravel - 5 years
-- Livewire - 3 years
-- Filament - 2 years
-- Vue - 2 years
+- PHP
+- JavaScript
+- Laravel
+- Livewire
+- Filament
+- Vue
 <br/>
 
 Tools
