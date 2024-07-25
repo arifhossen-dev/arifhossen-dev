@@ -1,9 +1,26 @@
 # Hi there!
 
-I am a full-stack developer building various web applications. I have expertise in Laravel, PHP, Vue.js, Laravel Livewire, FilamentPHP, TALL stack. I have worked with MySQL, SQLite databases. I have a proven track record of delivering successful SaaS applications and multiple projects. I am passionate about maintaining SOLID principles in projects. Currently, I am seeking a team role where I can leverage my skills and experience to contribute to the success of the organization.
+I am a passionate and experienced full-stack developer with a strong focus on building robust and scalable web applications. My expertise lies in Laravel, PHP, Vue.js, Laravel Livewire, FilamentPHP, and the TALL stack. I am well-versed in working with MySQL and SQLite databases and have a proven track record of delivering successful SaaS applications and numerous other projects.
 
+I am dedicated to maintaining SOLID principles in all my projects, ensuring high-quality and maintainable code. With a keen eye for detail and a commitment to excellence, I strive to deliver the best solutions that meet my clients' needs.
 
+**What I Offer**
+
+- **Expertise in Modern Technologies**: Proficient in Laravel, PHP, Vue.js, Laravel Livewire, FilamentPHP, and the TALL stack.
+- **Database Management**: Skilled in MySQL and SQLite for efficient data handling and storage solutions.
+- **Proven Success**: Demonstrated ability to deliver successful SaaS applications and various web projects.
+- **Quality and Maintainability**: Adherence to SOLID principles to ensure clean, maintainable, and scalable code.
+- **Client-Centric Approach**: Dedicated to understanding and meeting client requirements to deliver tailored solutions.
+
+**What I'm Looking For**
+
+I am currently seeking a team role where I can leverage my skills and experience to contribute to the success of the organization. I am eager to collaborate with a dynamic team to create impactful web applications that drive business success.
+
+Let's connect and discuss how I can help bring your project to life!
+
+<!--
 ![Static Badge](https://img.shields.io/badge/Full--stack-white) ![Static Badge](https://img.shields.io/badge/TALL_stack-white) ![Static Badge](https://img.shields.io/badge/Filament-white) ![Static Badge](https://img.shields.io/badge/PHP-white) ![Static Badge](https://img.shields.io/badge/Laravel-white) ![Static Badge](https://img.shields.io/badge/JavaScript-white) ![Static Badge](https://img.shields.io/badge/Vue-white) ![Static Badge](https://img.shields.io/badge/Nuxt-white) ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-white)
+-->
 
 <a href="https://app.daily.dev/arifhossendev"><img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif hossen's Dev Card"/></a>
 Experience
