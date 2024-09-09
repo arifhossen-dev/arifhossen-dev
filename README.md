@@ -18,9 +18,9 @@ I am currently seeking a team role where I can leverage my skills and experience
 
 Let's connect and discuss how I can help bring your project to life!
 
-<!--
+
 ![Static Badge](https://img.shields.io/badge/Full--stack-white) ![Static Badge](https://img.shields.io/badge/TALL_stack-white) ![Static Badge](https://img.shields.io/badge/Filament-white) ![Static Badge](https://img.shields.io/badge/PHP-white) ![Static Badge](https://img.shields.io/badge/Laravel-white) ![Static Badge](https://img.shields.io/badge/JavaScript-white) ![Static Badge](https://img.shields.io/badge/Vue-white) ![Static Badge](https://img.shields.io/badge/Nuxt-white) ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-white)
--->
+
 
 <a href="https://app.daily.dev/arifhossendev"><img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif hossen's Dev Card"/></a>
 Experience
