@@ -33,6 +33,7 @@ Experience
 - Livewire
 - Filament
 - Vue
+- Nuxt
 <br/>
 
 Tools
@@ -53,7 +54,7 @@ Self-employed
 - Built SaaS applications that scale and support hundreds of companies.
 - Integrated social media tools and SDKs into various web applications.
 
-```Technologies: CSS, JavaScript, MySQL, Laravel, PHP, Livewire, Filament, Vue, TailwindCSS, Full-stack```
+```Technologies: CSS, JavaScript, MySQL, Laravel, PHP, Livewire, Filament, Vue, Nuxt, TailwindCSS, Full-stack```
 
 ## Full-stack developer
 DEC 2021 - MAY 2023 • REMOTE
