@@ -1,6 +1,6 @@
 # Hi there!
 
-I am a passionate and experienced full-stack developer with a strong focus on building robust and scalable web applications. My expertise lies in Laravel, PHP, Vue.js, Laravel Livewire, FilamentPHP, and the TALL stack. I am well-versed in working with MySQL and SQLite databases and have a proven track record of delivering successful SaaS applications and numerous other projects.
+I am a backend-focused full-stack software developer with a strong knowledge of building robust and scalable web applications. My expertise lies in Laravel, PHP, Vue.js, Laravel Livewire, FilamentPHP, and the TALL stack. I am well-versed in working with MySQL and SQLite databases and have a proven track record of delivering successful SaaS applications and numerous other projects.
 
 I am dedicated to maintaining SOLID principles in all my projects, ensuring high-quality and maintainable code. With a keen eye for detail and a commitment to excellence, I strive to deliver the best solutions that meet my clients' needs.
 
