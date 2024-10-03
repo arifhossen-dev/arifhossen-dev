@@ -41,12 +41,10 @@ Tools
 - Docker
 - PhpStorm & VSCode
 
-<div align="right">
 Operating System
   - Mac OS
   - Linux
   - Windows
-</div>
 
 Cloud
 - DigitalOcean
