@@ -87,8 +87,7 @@ Self-employed
 ```Technologies: CSS, JavaScript, MySQL, Laravel, PHP, Livewire, Filament, Vue, Nuxt, TailwindCSS, Full-stack```
 
 ## Full-stack developer
-DEC 2021 - MAY 2023 • REMOTE
-Activity Smart Inc
+DEC 2021 - MAY 2023 — Remote contract — Activity Smart Inc
 
 - Developed and successfully deployed a SAAS product. Activity and floor Management system targeted to the manufacturing companies.
 - The groundbreaking feature was task schedule and report automation. The customers were very happy with it saving a massive amount of time.
@@ -97,8 +96,7 @@ Activity Smart Inc
 ```Technologies: Laravel, PHP, Livewire, AlpineJS, TailwindCSS, TALL-stack```
 
 ## Full-stack Developer
-NOV 2021 - AUG 2023 • FREELANCE
-Foxpair Media Inc
+NOV 2021 - AUG 2023  — Remote contract — Foxpair Media Inc
 
 - Led the development and successful launch of a Real Estate Web application, facilitating property transactions including buying, renting, and selling.
 - Develop a fully functional Transportation Management System for the Track rental department.
