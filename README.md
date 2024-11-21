@@ -1,4 +1,4 @@
-### Hi, I'm Arif Hossen – Backend-Focused Full-Stack Software Developer | SaaS Enthusiast
+### Hi, I'm Arif Hossen – Backend-Focused Full-Stack Software Developer
 
 **About Me:**  
 With over 4 years of professional experience in web development, I specialize in creating robust, scalable, and user-centric applications. My expertise lies in building full-stack applications using the latest technologies like Laravel, Vue.js, Nuxt, and TailwindCSS. As a Lead Developer, I’ve been at the helm of multiple SaaS products, collaborating with teams to deliver top-notch software solutions that meet clients' needs and exceed expectations.
