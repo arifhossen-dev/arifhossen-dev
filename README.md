@@ -8,6 +8,7 @@ With over 5 years of professional experience in web development, I specialize in
 - **Front-End Mastery:** Crafting modern, responsive interfaces using Vue 3, Inertia.js, and TailwindCSS for a smooth and intuitive user experience.
 - **Back-End Expertise:** Developing and maintaining complex backend systems with Laravel, optimizing database queries, and ensuring application security.
 - **Team Leadership:** Guiding development teams, reviewing code, and making strategic decisions to deliver high-quality projects on time.
+- **Educator:**
 
 **Key Strengths:**  
 - Proactive problem-solver with a keen eye for details and best practices.
