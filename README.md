@@ -11,7 +11,7 @@ Vue.js, Livewire and FilamentPHP.
 - **Full-Stack Development**: Architecting and developing end-to-end web applications with a focus on performance,
   scalability, and maintainability
 - **Frontend Excellence**: Creating intuitive user interfaces using Vue.js, Alpine.js, and TypeScript, with a strong
-  emphasis on responsive design and modern UX principles
+  emphasis on responsive design principles
 - **Backend Mastery**: Developing robust server-side applications using Laravel and PHP, with expertise in database
   optimization and API design
 - **Team Leadership**: Successfully leading development teams and making strategic technical decisions to deliver
