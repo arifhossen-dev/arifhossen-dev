@@ -24,8 +24,9 @@ const technologies = {
     frontend: ['Vue.js', 'Alpine.js', 'TypeScript', 'Tailwind CSS'],
     backend: ['Laravel', 'PHP'],
     database: ['MySQL'],
-    tools: ['Git', 'Docker', 'AWS', 'Postman', 'Apidog', 'Linux'],
     testing: ['PHPUnit', 'Pest']
+    tools: ['Git', 'Docker', 'AWS', 'Postman', 'Apidog', 'Linux'],
+    OS:['Linux','MacOS','Windows']
 };
 ```
 
