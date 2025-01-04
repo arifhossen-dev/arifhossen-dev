@@ -43,9 +43,11 @@ const technologies = {
 <a href="https://app.daily.dev/arifhossendev"><img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif hossen's Dev Card"/></a>
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=arifhossen-dev&layout=compact&langs_count=8&card_width=320" />
 
+<!--
 ### 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifhossen-dev&show_icons=true&theme=radical)
+-->
 
 ### 🤝 Let's Connect
 
