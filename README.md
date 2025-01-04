@@ -57,6 +57,8 @@ const technologies = {
 - 🐦 X: [@ArifHossenDev](https://x.com/ArifHossenDev)
 - 📝 Medium: [@arifhossen.dev](https://medium.com/@arifhossen.dev)
 
+<br/>
+<br/>
 ---
 
 💻 **Open to exciting opportunities** where I can leverage my expertise to build innovative solutions and collaborate with forward-thinking teams. Whether you're interested in discussing potential projects, technical challenges, or professional opportunities, I'd love to connect!
