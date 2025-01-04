@@ -59,6 +59,7 @@ const technologies = {
 
 <br/>
 <br/>
+
 ---
 
 💻 **Open to exciting opportunities** where I can leverage my expertise to build innovative solutions and collaborate with forward-thinking teams. Whether you're interested in discussing potential projects, technical challenges, or professional opportunities, I'd love to connect!
