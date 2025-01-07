@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Arif Hossen
 
-## Backend Focused Full-Stack Software Developer | Laravel Expert
+## Backend Focused Full-Stack Software Developer | Laravel Expert with Vue experienced
 
 With over 4 years of professional experience in web development, I specialize in building scalable, robust, and
 user-centric applications. My expertise lies in creating full-stack solutions using modern technologies like Laravel,
