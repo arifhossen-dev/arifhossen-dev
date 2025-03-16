@@ -2,52 +2,79 @@
 
 ## Backend Focused Full-Stack Software Developer | Laravel Expert with Vue experienced
 
-With over 4 years of professional experience in web development, I specialize in building scalable, robust, and
-user-centric applications. My expertise lies in creating full-stack solutions using modern technologies like Laravel,
-Vue.js, Livewire and FilamentPHP.
+With over 4 years of professional experience, I architect and build scalable web applications with a focus on Laravel excellence. I specialize in developing robust backend systems and creating seamless full-stack solutions that deliver exceptional user experiences.
 
 ### 🚀 Core Competencies
 
-- **Full-Stack Development**: Architecting and developing end-to-end web applications with a focus on performance,
-  scalability, and maintainability
-- **Frontend Excellence**: Creating intuitive user interfaces using Vue.js, Alpine.js, and TypeScript, with a strong
-  emphasis on responsive design principles
-- **Backend Mastery**: Developing robust server-side applications using Laravel and PHP, with expertise in database
-  optimization and API design
-- **Team Leadership**: Successfully leading development teams and making strategic technical decisions to deliver
-  high-quality projects on time
+- **Backend Architecture**: Designing high-performance Laravel applications with clean, maintainable codebases
+- **API Development**: Creating RESTful APIs following industry best practices and security standards
+- **Database Optimization**: Implementing efficient database designs and query optimization strategies
+- **Full-Stack Integration**: Connecting Laravel backends with Vue.js and modern frontend frameworks
+- **Technical Leadership**: Guiding development teams and making strategic technical decisions to ensure project success
 
-### 💡 Technical Expertise
+### 💻 Technical Stack
 
 ```javascript
 const technologies = {
+    backend: {
+        core: ['PHP 8+', 'Laravel', 'RESTful APIs'],
+        frameworks: ['Laravel', 'Livewire', 'FilamentPHP'],
+        testing: ['PHPUnit', 'Pest']
+    },
     frontend: ['Vue.js', 'Alpine.js', 'TypeScript', 'Tailwind CSS'],
-    backend: ['Laravel', 'PHP'],
-    database: ['MySQL'],
-    testing: ['PHPUnit', 'Pest'],
-    tools: ['Git', 'Docker', 'AWS', 'Postman', 'Apidog', 'Linux'],
-    OS:['Linux','MacOS','Windows']
+    database: ['MySQL', 'Query Optimization'],
+    devOps: ['Git', 'Docker', 'CI/CD', 'AWS', 'Linux'],
+    tools: ['Postman', 'Apidog'],
+    patterns: ['SOLID', 'Repository Pattern', 'Service Layer'],
+    OS: ['Linux', 'MacOS', 'Windows']
 };
 ```
 
-### 🌟 Professional Highlights
+### 🌟 Professional Experience
 
-- Led the development of mission-critical applications serving thousands of users
-- Implemented robust CI/CD pipelines resulting in 40% faster deployment cycles
+## Senior Web Developer
+**2018 - PRESENT**  
+*Self-employed*  
+- Developed and delivered web applications for 20+ clients across diverse industries
+- Rescued troubled projects by providing expert technical solutions and guidance
+- Architected scalable SaaS applications supporting hundreds of companies
+- Implemented social media integrations and third-party SDKs for enhanced functionality
+
+```Technologies: Laravel, PHP, Livewire, Filament, Vue, Nuxt, JavaScript, MySQL, TailwindCSS```
+
+## Full-Stack Developer
+**DEC 2021 - MAY 2023**  
+*Activity Smart Inc — Remote Contract*
+
+- Architected and deployed a manufacturing-focused SaaS platform for activity and floor management
+- Implemented task scheduling and automated reporting systems, significantly reducing manual workload
+- Developed interactive features including SPA architecture, drag-and-drop interfaces, and multi-layered data tables
+- Optimized application performance for enterprise-level usage
+
+```Technologies: Laravel, PHP, Livewire, AlpineJS, TailwindCSS, TALL-stack```
+
+## Full-Stack Developer
+**NOV 2021 - AUG 2023**  
+*Foxpair Media Inc — Remote Contract*
+
+- Led development of a comprehensive Real Estate platform handling property buying, selling, and rental transactions
+- Designed and implemented a Transportation Management System for truck rental operations
+- Integrated mapping solutions and location-based services using Mapbox API
+- Built responsive, user-friendly interfaces for complex data visualization
+
+```Technologies: Laravel, PHP, Livewire, AlpineJS, TailwindCSS, Realstate SDK, Mapbox API```
+
+### 🏆 Key Achievements
+
+- Led development of mission-critical applications serving thousands of users
+- Implemented CI/CD pipelines resulting in 40% faster deployment cycles
 - Mentored junior developers and conducted technical training sessions
-- Regular contributor to open-source projects and technical communities
+- Contributed to open-source projects within the Laravel ecosystem
 
 <br/>
-<br/>
 
-<a href="https://app.daily.dev/arifhossendev"><img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif hossen's Dev Card"/></a>
+<a href="https://app.daily.dev/arifhossendev"><img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif Hossen's Dev Card"/></a>
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=arifhossen-dev&layout=compact&langs_count=8&card_width=320" />
-
-<!--
-### 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifhossen-dev&show_icons=true&theme=radical)
--->
 
 ### 🤝 Let's Connect
 
@@ -58,41 +85,7 @@ const technologies = {
 - 📝 Medium: [@arifhossen.dev](https://medium.com/@arifhossen.dev)
 
 <br/>
-<br/>
 
 ---
 
-💻 **Open to exciting opportunities** where I can leverage my expertise to build innovative solutions and collaborate with forward-thinking teams. Whether you're interested in discussing potential projects, technical challenges, or professional opportunities, I'd love to connect!
-<!--
-## Web developer
-2018 - PRESENT  
-Self-employed  
-- Developed web applications for over 20 clients.
-- Helped multiple clients finalise problematic projects by providing the needed expertise to bring projects to release.
-- Built SaaS applications that scale and support hundreds of companies.
-- Integrated social media tools and SDKs into various web applications.
-
-```Technologies: CSS, JavaScript, MySQL, Laravel, PHP, Livewire, Filament, Vue, Nuxt, TailwindCSS, Full-stack```
-
-## Full-stack developer
-DEC 2021 - MAY 2023 — Remote contract — Activity Smart Inc
-
-- Developed and successfully deployed a SAAS product. Activity and floor Management system targeted to the manufacturing companies.
-- The groundbreaking feature was task schedule and report automation. The customers were very happy with it saving a massive amount of time.
-- Key features that boost seals and performance are Full SPA, Draggable, Multilayer data table, Interactive Modal etc.
-
-```Technologies: Laravel, PHP, Livewire, AlpineJS, TailwindCSS, TALL-stack```
-
-## Full-stack Developer
-NOV 2021 - AUG 2023  — Remote contract — Foxpair Media Inc
-
-- Led the development and successful launch of a Real Estate Web application, facilitating property transactions including buying, renting, and selling.
-- Develop a fully functional Transportation Management System for the Track rental department.
-
-```Technologies: Realstate SDK, Mapbox API, Laravel, PHP, Livewire, AlpineJS, TailwindCSS, TALL-stack```
--->
-
-<!--
----
-[![Facebook Badge](https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifhossen-dev/)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahak.bsl@gmail.com)
--->
+💻 **Available for Remote Opportunities** with European and UK-based companies seeking Laravel expertise. I specialize in building scalable, maintainable applications that solve complex business problems. Particularly interested in SaaS, e-commerce, and enterprise solutions where I can leverage my full-stack capabilities to deliver high-quality software.
