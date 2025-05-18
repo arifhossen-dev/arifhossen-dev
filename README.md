@@ -79,7 +79,7 @@ const technologies = {
 ### 🤝 Let's Connect
 
 - 📫 Email: [arifhossen.dev@gmail.com](mailto:arifhossen.dev@gmail.com)
-- 💼 LinkedIn: [View Profile](https://www.linkedin.com/in/arifhossen-dev)
+- 💼 LinkedIn: [arifhossen-dev](https://www.linkedin.com/in/arifhossen-dev)
 - 🌐 Portfolio: [arifhossen.dev](https://arifhossen.dev)
 - 🐦 X: [@ArifHossenDev](https://x.com/ArifHossenDev)
 - 📝 Medium: [@arifhossen.dev](https://medium.com/@arifhossen.dev)
