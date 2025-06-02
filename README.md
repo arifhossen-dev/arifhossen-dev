@@ -88,4 +88,4 @@ const technologies = {
 
 ---
 
-💻 **Available for Remote Opportunities** with European and UK-based companies seeking Laravel expertise. I specialize in building scalable, maintainable applications that solve complex business problems. Particularly interested in SaaS, e-commerce, and enterprise solutions where I can leverage my full-stack capabilities to deliver high-quality software.
+💻 **Available for Remote Position** with European and UK-based companies seeking Laravel expertise. I specialize in building scalable, maintainable applications that solve complex business problems. Particularly interested in SaaS, e-commerce, and enterprise solutions where I can leverage my full-stack capabilities to deliver high-quality software.
