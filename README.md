@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Arif Hossen
 
 ## Backend Focused Full-Stack Software Developer | Laravel Expert with FilamentPHP and Vue experienced
-<!--
+
 With over 4 years of professional experience, I architect and build scalable web applications with a focus on Laravel excellence. I specialize in developing robust backend systems and creating seamless full-stack solutions that deliver exceptional user experiences.
 
 ### 🚀 Core Competencies
@@ -89,4 +89,3 @@ const technologies = {
 ---
 
 💻 **Available for Remote Position** with European and UK-based companies seeking Laravel expertise. I specialize in building scalable, maintainable applications that solve complex business problems. Particularly interested in SaaS, e-commerce, and enterprise solutions where I can leverage my full-stack capabilities to deliver high-quality software.
--->
