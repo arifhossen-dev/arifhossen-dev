@@ -78,12 +78,12 @@ const technologies = {
     <img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif Hossen's Dev Card"/>
 </a>
 
-<img src="https://api.boot.dev/v1/users/public/bf6981fa-13bf-4caa-99a3-6d36564725c5/thumbnail" >
+<img width="300" src="https://api.boot.dev/v1/users/public/bf6981fa-13bf-4caa-99a3-6d36564725c5/thumbnail" >
 
 <!-- <br/> -->
 
 <!-- <a href="https://app.daily.dev/arifhossendev">
-    <img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif Hossen's Dev Card"/>
+    <img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="200" alt="Arif Hossen's Dev Card"/>
 </a> -->
 <!-- <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=arifhossen-dev&layout=compact&langs_count=8&card_width=320" /> -->
 
