@@ -78,7 +78,7 @@ const technologies = {
     <img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif Hossen's Dev Card"/>
 </a>
 
-<img style="border-radius: 555px;" width="500" src="https://api.boot.dev/v1/users/public/bf6981fa-13bf-4caa-99a3-6d36564725c5/thumbnail" >
+<img width="500" src="https://api.boot.dev/v1/users/public/bf6981fa-13bf-4caa-99a3-6d36564725c5/thumbnail" >
 
 <!-- <br/> -->
 
