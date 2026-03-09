@@ -74,9 +74,9 @@ const technologies = {
 <!-- <p align="left">
   <img src="https://api.boot.dev/v1/users/public/bf6981fa-13bf-4caa-99a3-6d36564725c5/thumbnail" >
 </p> -->
-<a href="https://app.daily.dev/arifhossendev">
+<!-- <a href="https://app.daily.dev/arifhossendev">
     <img align="right" src="https://api.daily.dev/devcards/v2/p2FgjQxxUstNyVgLZKREJ.png?r=yma" width="300" alt="Arif Hossen's Dev Card"/>
-</a>
+</a> -->
 
 <img width="500" src="https://api.boot.dev/v1/users/public/bf6981fa-13bf-4caa-99a3-6d36564725c5/thumbnail" >
 
